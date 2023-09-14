@@ -1,7 +1,7 @@
 @echo off
 title WINDOWS PHONE RECOVERY
 color a
-::author :F4tsk4k
+::author :F4tsk4l
 mode con: cols=85 lines=37
 ::Other info on https://
 :Welcome
